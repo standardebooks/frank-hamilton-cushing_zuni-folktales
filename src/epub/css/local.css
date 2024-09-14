@@ -44,3 +44,13 @@ p span.i4{
 	padding-left: 5em;
 	text-indent: -1em;
 }
+
+/* Footer in introduction */
+footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
