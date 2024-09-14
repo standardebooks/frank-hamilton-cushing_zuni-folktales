@@ -83,8 +83,44 @@
 		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/ahaiyuta-and-matsailema.xhtml" id="ahaiyuta-and-matsailema.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/atahsaia-the-cannibal-demon.xhtml" id="atahsaia-the-cannibal-demon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitlepage.xhtml" id="halftitlepage.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-corn-pests-were-ensnared.xhtml" id="how-the-corn-pests-were-ensnared.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-coyote-danced-with-the-blackbirds.xhtml" id="how-the-coyote-danced-with-the-blackbirds.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-coyote-joined-the-dance.xhtml" id="how-the-coyote-joined-the-dance.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-coyotes-tries-to-steal.xhtml" id="how-the-coyotes-tries-to-steal.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-gopher-raced-with-the-runners.xhtml" id="how-the-gopher-raced-with-the-runners.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-rattlesnakes-came-to-be-what-they-are.xhtml" id="how-the-rattlesnakes-came-to-be-what-they-are.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-summer-birds-came.xhtml" id="how-the-summer-birds-came.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-turtle-out-hunting-duped-the-coyote.xhtml" id="how-the-turtle-out-hunting-duped-the-coyote.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/how-the-twins-of-war-and-chance.xhtml" id="how-the-twins-of-war-and-chance.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/introduction.xhtml" id="introduction.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/jackrabbit-and-cottontail.xhtml" id="jackrabbit-and-cottontail.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-boy-hunter.xhtml" id="the-boy-hunter.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-cock-and-the-mouse.xhtml" id="the-cock-and-the-mouse.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coyote-and-the-beetle.xhtml" id="the-coyote-and-the-beetle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coyote-and-the-locust.xhtml" id="the-coyote-and-the-locust.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coyote-and-the-ravens.xhtml" id="the-coyote-and-the-ravens.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-coyote-who-killed-the-demon-siuiuki.xhtml" id="the-coyote-who-killed-the-demon-siuiuki.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-foster-child-of-the-deer.xhtml" id="the-foster-child-of-the-deer.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-giant-cloud-swallower.xhtml" id="the-giant-cloud-swallower.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-hermit-mitsina.xhtml" id="the-hermit-mitsina.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-maiden-of-the-yellow-rocks.xhtml" id="the-maiden-of-the-yellow-rocks.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-maiden-the-made-love-to.xhtml" id="the-maiden-the-made-love-to.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-poor-turkey-girl.xhtml" id="the-poor-turkey-girl.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-prairie-dogs-and-their-priest.xhtml" id="the-prairie-dogs-and-their-priest.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-rabbit-huntress-and-her-adventures.xhtml" id="the-rabbit-huntress-and-her-adventures.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-revenge-of-the-two-brothers.xhtml" id="the-revenge-of-the-two-brothers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-serpent-of-the-sea.xhtml" id="the-serpent-of-the-sea.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-trial-of-lovers.xhtml" id="the-trial-of-lovers.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-ugly-wild-boy-who-drove-the-bear.xhtml" id="the-ugly-wild-boy-who-drove-the-bear.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-warrior-suitor-of-moki.xhtml" id="the-warrior-suitor-of-moki.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-young-swift-runner.xhtml" id="the-young-swift-runner.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/the-youth-and-his-eagle.xhtml" id="the-youth-and-his-eagle.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
