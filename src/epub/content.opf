@@ -59,8 +59,8 @@
 		<meta property="file-as" refines="#transcriber-1">Harrison, Larry B.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sam W.</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">W. Sam</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
+		<meta property="file-as" refines="#transcriber-2">W. Sam</meta>
+		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="contributor">J. W. Powell</dc:contributor>
 		<meta property="file-as" refines="#contributor">Powell, J. W.</meta>
 		<meta property="se:name.person.full-name" refines="#contributor">John Wesley Powell</meta>
