@@ -59,3 +59,7 @@ footer{
 body [xml|lang="zun"]{
 	font-style: italic;
 }
+
+body [xml|lang="zun"] i{
+	font-style: normal;
+}
