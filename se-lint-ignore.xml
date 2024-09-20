@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<se-lint-ignore>
+	<file path="translators-introduction-1.xhtml">
+		<ignore>
+			<code>s-036</code>
+			<reason>Bodymatter semantics seem to be correct.</reason>
+		</ignore>
+	</file>
+   	<file path="translators-introduction-2.xhtml">
+    	<ignore>
+			<code>s-036</code>
+			<reason>Bodymatter semantics seem to be correct.</reason>
+		</ignore>
+	</file>
+</se-lint-ignore>
