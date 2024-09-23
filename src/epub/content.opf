@@ -35,10 +35,10 @@
 		<meta property="se:subject">Shorts</meta>
 		<dc:description id="description">A collection of folktales from the Zuni culture, collected by Frank Hamilton Cushing.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of several tradional stories from the Zuni culture, a Native-American people who live in the American south-east, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
-			&lt;p&gt;These stories are a part of larger group of oral tradition, with its lore being transmited from one generation to the next without them being written. As such, there are no “definitive” versions of these tales, the ones in this book being simply one version of stories with considerable variation.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of tradional stories from the Zuni culture, a Native-American people who live in the American south-east, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
+			&lt;p&gt;These stories are a part of larger group of oral tradition. As such, there are no “definitive” versions of these tales, the ones in this book being simply one version of stories with considerable variation.&lt;/p&gt;
 			&lt;p&gt;Like traditional stories from other cultures, the tales from this collection often seek to teach something to the listener, either how to behave, a moral lesson or an explanation on natural phenomena.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-hamilton-cushing"&gt;Frank Hamilton Cushing&lt;/a&gt; was an anthropologist who took on an expedition for the collection of data and artifacts from Native-American cultures, with him doing significantly work on the Zuni people. Currently he is considered both an innovator in the field and an example of unethical behavior in the study of native cultures.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-hamilton-cushing"&gt;Frank Hamilton Cushing&lt;/a&gt; was an anthropologist who took on an expedition for the collection of data and artifacts from Native-American cultures, with him doing significantly work on the Zuni people. The tales that he collected were told to him by native informants.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54682</dc:source>
