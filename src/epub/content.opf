@@ -52,6 +52,10 @@
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50020523</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
+		<dc:contributor id="contributor">J. W. Powell</dc:contributor>
+		<meta property="file-as" refines="#contributor">Powell, J. W.</meta>
+		<meta property="se:name.person.full-name" refines="#contributor">John Wesley Powell</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
 		<dc:contributor id="artist">Gerald Cassidy</dc:contributor>
 		<meta property="file-as" refines="#artist">Cassidy, Gerald</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ira Dymond Gerald Cassidy</meta>
@@ -62,12 +66,8 @@
 		<meta property="file-as" refines="#transcriber-1">Harrison, Larry B.</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Sam W.</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">W. Sam</meta>
+		<meta property="file-as" refines="#transcriber-2">W., Sam</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="contributor">J. W. Powell</dc:contributor>
-		<meta property="file-as" refines="#contributor">Powell, J. W.</meta>
-		<meta property="se:name.person.full-name" refines="#contributor">John Wesley Powell</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
 		<meta property="se:url.authority.nacoaf" refines="#contributor">http://id.loc.gov/authorities/names/n50019556</meta>
 		<dc:contributor id="producer-1">Hendrik Kaiber</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Kaiber, Hendrik</meta>
