@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-09-26T21:26:54Z</dc:date>
+		<meta property="dcterms:modified">2024-09-26T21:26:54Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -33,18 +33,18 @@
 		<meta property="term" refines="#subject-1">sh2010119975</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
-		<dc:description id="description">A collection of folktales from the Zuni culture, collected by Frank Hamilton Cushing.</dc:description>
+		<dc:description id="description">A collection of folktales from the Zuni culture.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of tradional stories from the Zuni culture, a Native-American people who live in the American south-east, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
-			&lt;p&gt;These stories are a part of larger group of oral tradition. As such, there are no “definitive” versions of these tales, the ones in this book being simply one version of stories with considerable variation.&lt;/p&gt;
-			&lt;p&gt;Like traditional stories from other cultures, the tales from this collection often seek to teach something to the listener, either how to behave, a moral lesson or an explanation on natural phenomena.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-hamilton-cushing"&gt;Frank Hamilton Cushing&lt;/a&gt; was an anthropologist who took on an expedition for the collection of data and artifacts from Native-American cultures, with him doing significantly work on the Zuni people. The tales that he collected were told to him by native informants.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of traditional stories from the Zuni, a Native American people who live in the American southeast, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
+			&lt;p&gt;These stories are a part of larger group of oral tradition. As such, there are no “definitive” versions of these tales, and the ones in this book are simply one possible version of the stories.&lt;/p&gt;
+			&lt;p&gt;Like traditional stories from other cultures, the tales from this collection often seek to teach something to the listener: how to behave, a moral lesson, or an explanation of natural phenomena.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-hamilton-cushing"&gt;Frank Hamilton Cushing&lt;/a&gt; was an anthropologist who went on an expedition to collection data and artifacts from Native American cultures, which led him to do significant work on the Zuni people. The tales that he collected in this volume were told to him by Zuni natives.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54682</dc:source>
 		<dc:source>https://archive.org/details/zuifolktales00cush</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">122303</meta>
+		<meta property="se:reading-ease.flesch">77.06</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frank-hamilton-cushing_zuni-folktales</meta>
 		<dc:creator id="author">Frank Hamilton Cushing</dc:creator>
 		<meta property="file-as" refines="#author">Cushing, Frank Hamilton</meta>
@@ -78,6 +78,11 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">David Reimer</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Reimer, David</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://github.com/dajare</meta>
+		<meta property="se:url.authority.nacoaf" refines="#producer-2">http://id.loc.gov/authorities/names/n92075987</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
