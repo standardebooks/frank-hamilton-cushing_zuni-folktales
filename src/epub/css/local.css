@@ -60,6 +60,7 @@ body [xml|lang="zun"]{
 	font-style: italic;
 }
 
-body [xml|lang="zun"] i{
+body [xml|lang="zun"] i,
+body [xml|lang="zun"] em{
 	font-style: normal;
 }
