@@ -33,6 +33,7 @@
 		<meta property="term" refines="#subject-1">sh2010119975</meta>
 		<meta property="se:subject">Fantasy</meta>
 		<meta property="se:subject">Shorts</meta>
+		<meta property="se:is-a-collection">true</meta>
 		<dc:description id="description">A collection of folktales from the Zuni culture.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of traditional stories from the Zuni, a Native American people who live in the American southwest, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
