@@ -57,7 +57,7 @@
 		<dc:contributor id="contributor">J. W. Powell</dc:contributor>
 		<meta property="file-as" refines="#contributor">Powell, J. W.</meta>
 		<meta property="se:name.person.full-name" refines="#contributor">John Wesley Powell</meta>
-		<meta property="role" refines="#contributor" scheme="marc:relators">aui</meta>
+		<meta property="role" refines="#contributor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Gerald Cassidy</dc:contributor>
 		<meta property="file-as" refines="#artist">Cassidy, Gerald</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Ira Dymond Gerald Cassidy</meta>
