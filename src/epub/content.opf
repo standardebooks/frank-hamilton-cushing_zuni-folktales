@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/frank-hamilton-cushing/zuni-folktales</dc:identifier>
 		<dc:date>2024-09-26T21:26:54Z</dc:date>
@@ -36,13 +36,13 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:description id="description">A collection of folktales from the Zuni culture.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A collection of folktales from the Zuni culture.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of traditional stories from the Zuni, a Native American people who live in the American southwest, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
 			&lt;p&gt;These stories are a part of larger group of oral tradition. As such, there are no “definitive” versions of these tales, and the ones in this book are simply one possible version of the stories.&lt;/p&gt;
 			&lt;p&gt;Like traditional stories from other cultures, the tales from this collection often seek to teach something to the listener: how to behave, a moral lesson, or an explanation of natural phenomena.&lt;/p&gt;
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/frank-hamilton-cushing"&gt;Frank Hamilton Cushing&lt;/a&gt; was an anthropologist who went on an expedition to collection data and artifacts from Native American cultures, which led him to do significant work on the Zuni people. The tales that he collected in this volume were told to him by Zuni natives.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/54682</dc:source>
 		<dc:source>https://archive.org/details/zuifolktales00cush</dc:source>
