@@ -36,7 +36,7 @@
 		<meta property="schema:genre">Fantasy</meta>
 		<meta property="schema:genre">Shorts</meta>
 		<meta property="schema:additionalType">http://schema.org/Collection</meta>
-		<dc:abstract>A collection of folktales from the Zuni culture.</dc:abstract>
+		<meta property="schema:abstract">A collection of folktales from the Zuni culture.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;i&gt;Zuni Folktales&lt;/i&gt; is a collection of traditional stories from the Zuni, a Native American people who live in the American southwest, mainly in the modern states of New Mexico and Arizona.&lt;/p&gt;
 			&lt;p&gt;These stories are a part of larger group of oral tradition. As such, there are no “definitive” versions of these tales, and the ones in this book are simply one possible version of the stories.&lt;/p&gt;
