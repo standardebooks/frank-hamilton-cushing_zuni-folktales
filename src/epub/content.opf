@@ -60,6 +60,7 @@
 		<dc:contributor id="contributor">J. W. Powell</dc:contributor>
 		<meta property="file-as" refines="#contributor">Powell, J. W.</meta>
 		<meta property="schema:alternateName" refines="#contributor">John Wesley Powell</meta>
+		<link href="https://en.wikipedia.org/wiki/John_Wesley_Powell" refines="#contributor" rel="schema:sameAs"/>
 		<meta property="role" refines="#contributor" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Gerald Cassidy</dc:contributor>
 		<meta property="file-as" refines="#artist">Cassidy, Gerald</meta>
